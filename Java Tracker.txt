@@ -1,0 +1,50 @@
+1. Java Fundamentals
+	- What is Java all about & its key features.
+	- JDK, JRE & JVM.
+	- JVM architecture in detail.
+	- Why there is only one public class in a single file ?.
+	- Methods & Constructors in-depth.
+		- Everything about main method.
+
+	- Equals & HashCode Methods
+
+2. OOPS
+	- Definition, Comparison with Procedural.
+	- Objects & Classes.
+	- Pillars of OOPS.
+	- Objects Relationships, is-a, has-a.
+	- Association, Aggregation, Composition.
+	- Diamond Problem.
+
+	- Abstract class & interfaces
+
+3. Garbage Collection
+	- Java's Memory Management.
+	- Garbage Collector and different algorithms.
+
+4. Collections Framework
+
+5. Multithreading & Concurrency
+
+6. Design Patterns
+
+7. Version Specific Topics -
+	a. Java 8 -> Stream API
+
+8. Generics & Enums
+
+9. JVM Internals
+
+10. Java IO & NIO
+
+11. Socket Programming
+
+12. Exception Handling
+
+13. File Handling
+
+14. Parsing Practices -
+	1. JSON
+	2. XML
+
+15. Common Interview Questions
